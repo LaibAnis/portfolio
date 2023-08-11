@@ -15,10 +15,10 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Vendeur Magasin de décoration et de meubles"
-            subTitle="Mostaganem - (07/2022 - 10/2022)"
+            title="Freelancer in web development and java software development"
+            subTitle="Oran - (06/2022 - Present)"
             result="ALG"
-            des="Accompagnement des clients dans leurs achats, remise de conseils personnalisés, présentation de produits correspondant à leurs critères de recherche."
+            des=""
           />
         </div>
       </div>
