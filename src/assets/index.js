@@ -1,5 +1,5 @@
 import logo from "./images/logo.png";
-import bannerImg from "./images/168584646357278.png";
+import bannerImg from "./images/projects/1691770967789 (1).jpg";
 import projectOne from "./images/projects/localhost_3000_(iPhone SE).png";
 import projectTwo from "./images/projects/pod.png";
 import projectThree from "./images/projects/snail.png";
